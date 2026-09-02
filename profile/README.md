@@ -1,6 +1,8 @@
-Open Engineering Writers
+# Open Engineering Writers
 
 Writing the Open Engineering ecosystem into existence.
+
+![Open Engineering Writers hero-banner.png](../assets/hero-banner.png)
 
 Open Engineering Writers is the writing and publishing capability of the Open Engineering ecosystem.
 
@@ -8,7 +10,7 @@ We explore how humans and AI can work together to create engineering documentati
 
 Writing is not merely the final presentation layer of engineering. It is part of engineering itself.
 
-What we do
+## What we do
 
 Open Engineering Writers provides a home for experiments, tools, conventions, workflows, and reusable capabilities around engineering writing.
 
